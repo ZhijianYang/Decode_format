@@ -6,3 +6,4 @@ It's mainly about how I processed the raw data of GWAS of plasma protein levels 
 Details in Tecent Document 【腾讯文档】deCODE summary statistics
 https://docs.qq.com/doc/DTkVPY0ZJYk5GY2hJ
 
+The processed data were stored in /opt/storage/deCODE_formatted/zhijian/somascan_data on LargeBlack.
