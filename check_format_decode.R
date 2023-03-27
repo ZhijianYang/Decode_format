@@ -26,6 +26,7 @@ for (i in 1:length(filelist)) {
 
 	if (i == 1) {
 		SNP_list <- b$rsids
+		a <- b
 	} else {
 		cat('All rsids matched',all(SNP_list == b$rsids),'\n')
 	}
