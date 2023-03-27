@@ -29,11 +29,9 @@ for (i in 1:length(filelist)) {
 		a <- b
 	} else {
 		cat('All rsids matched',all(SNP_list == b$rsids),'\n')
+		cat('All effectAlleles matched.',all(a$effectAllele == b$effectAllele),'\n')
+		cat('All otherAlleles matched.',all(a$otherAllele == b$otherAllele),'\n')
 	}
-
-
-	cat('All effectAlleles matched.',all(a$effectAllele == b$effectAllele),'\n')
-	cat('All otherAlleles matched.',all(a$otherAllele == b$otherAllele),'\n')
 	
 	cat('\n')
 
