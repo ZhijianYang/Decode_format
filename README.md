@@ -1,5 +1,5 @@
 # Decode
-It's mainly about how I processed the raw data of GWAS of plasma protein levels measured with 4,907 aptamers in 35,559 Icelanders (Ferkingstad et al. 2021 _Nature genetics_)https://www.nature.com/articles/s41588-021-00978-w
+It's mainly about how I processed the raw data of GWAS of plasma protein levels measured with 4,907 aptamers in 35,559 Icelanders (Ferkingstad et al. 2021 _Nature genetics_ https://www.nature.com/articles/s41588-021-00978-w)
 
 The origin 4907 files were stored in /NiuHe/decode.is/ on LargeBlack.
 1881 files(aptamers) out of 4907 files(aptamers) contain cis-signal accroding to the supplementary table 2 of the paper.
