@@ -6,5 +6,5 @@ The origin 4907 files were stored in /NiuHe/decode.is/ on LargeBlack.
 
 The processed data were stored in /opt/storage/deCODE_formatted/zhijian/decode_somascan_data on LargeBlack.
 
-Details in Tecent Document 【腾讯文档】deCODE summary statistics
+Details in zhijian part of Tecent Document 【腾讯文档】deCODE summary statistics
 https://docs.qq.com/doc/DTkVPY0ZJYk5GY2hJ
