@@ -1,5 +1,5 @@
-## data process decode
-## This script should be ran on LB
+## Data process decode
+## This script should be run on LB
 
 # t1 <- Sys.time()
 # t2 <- Sys.time()
